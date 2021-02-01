@@ -1,9 +1,0 @@
-{
-  "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
-    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.1.6/dist/vue-router.min.js",
-    "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
-    "@Roma/first-single-spa": "https://proleps.github.io/binance-app-for-single-spa/js/app.bb720506.js",
-    "@Roma/root-config": "https://proleps.github.io/single-spa-binance/Roma-root-config.js"
-  }
-}
